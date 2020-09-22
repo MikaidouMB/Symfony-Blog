@@ -1,0 +1,68 @@
+[2020-09-16 11:44:27.433] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-16 11:44:27.442] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-16 16:14:32.348] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:14:32.350] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:14:37.933] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:14:37.933] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:14:43.606] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:14:43.608] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:14:48.610] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:14:48.611] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:14:53.613] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:14:53.644] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:18:11.935] [renderer1] [error] Unable to write into user settings because the file is dirty. Please save the user settings file first and then try again.: Error: Unable to write into user settings because the file is dirty. Please save the user settings file first and then try again.
+    at D.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5545:245)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5549:357
+    at async D.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5542:403)
+[2020-09-16 16:23:57.539] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-16 16:23:57.550] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-16 16:24:30.597] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:24:30.599] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:24:35.600] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:24:35.602] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:24:40.605] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:24:40.621] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:31:43.017] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:31:43.019] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:31:48.021] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:31:48.041] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:33:57.510] [renderer1] [error] Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.: Error: Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.
+    at D.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5545:245)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5549:267
+    at async D.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5542:403)
+[2020-09-16 16:34:39.878] [renderer1] [error] Impossible d’écrire dans le fichier. Veuillez ouvrir le fichier pour corriger les erreurs/avertissements dans le fichier et réessayer.: Error: Impossible d’écrire dans le fichier. Veuillez ouvrir le fichier pour corriger les erreurs/avertissements dans le fichier et réessayer.
+    at f.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5553:560)
+    at f.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5553:420)
+    at async f.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5551:971)
+[2020-09-16 16:35:33.437] [renderer1] [error] Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.: Error: Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.
+    at D.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5545:245)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5549:267
+    at async D.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5542:403)
+[2020-09-16 16:35:39.235] [renderer1] [error] Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.: Error: Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.
+    at D.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5545:245)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5549:267
+    at async D.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5542:403)
+[2020-09-16 16:37:12.967] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:37:12.976] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:37:17.977] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:37:17.997] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 16:37:40.327] [renderer1] [error] Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.: Error: Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.
+    at D.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5545:245)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5549:267
+    at async D.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5542:403)
+[2020-09-16 16:37:41.942] [renderer1] [error] Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.: Error: Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.
+    at D.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5545:245)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5549:267
+    at async D.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5542:403)
+[2020-09-16 16:37:43.343] [renderer1] [error] Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.: Error: Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.
+    at D.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5545:245)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5549:267
+    at async D.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5542:403)
+[2020-09-16 16:37:46.016] [renderer1] [error] Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.: Error: Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.
+    at D.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5545:245)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5549:267
+    at async D.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5542:403)
+[2020-09-16 16:37:54.664] [renderer1] [error] Impossible d’écrire dans le fichier. Veuillez ouvrir le fichier pour corriger les erreurs/avertissements dans le fichier et réessayer.: Error: Impossible d’écrire dans le fichier. Veuillez ouvrir le fichier pour corriger les erreurs/avertissements dans le fichier et réessayer.
+    at f.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5553:560)
+    at f.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5553:420)
+    at async f.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5551:971)

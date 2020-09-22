@@ -1,0 +1,26 @@
+[2020-09-16 18:54:28.053] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-16 18:54:28.062] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-16 18:55:51.604] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 18:55:51.606] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 18:55:56.608] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 18:55:56.610] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 18:56:01.739] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 18:56:01.760] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 18:57:23.272] [renderer1] [error] Impossible d’écrire dans le fichier. Veuillez ouvrir le fichier pour corriger les erreurs/avertissements dans le fichier et réessayer.: Error: Impossible d’écrire dans le fichier. Veuillez ouvrir le fichier pour corriger les erreurs/avertissements dans le fichier et réessayer.
+    at f.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5553:560)
+    at f.resolveAndValidate (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5553:420)
+    at async f.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5551:971)
+[2020-09-16 19:05:25.652] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 19:05:25.681] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 19:06:07.155] [renderer1] [error] Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.: Error: Impossible d’écrire dans les paramètres de l’utilisateur. Veuillez s’il vous plaît ouvrir le fichier des paramètres de l’utilisateur pour y corriger les erreurs/avertissements et essayez à nouveau.
+    at D.reject (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5545:245)
+    at file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5549:267
+    at async D.doWriteConfiguration (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:5542:403)
+[2020-09-16 19:07:48.014] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 19:07:48.016] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 19:07:53.018] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 19:07:53.019] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 19:07:58.019] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 19:07:58.022] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 19:09:01.878] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-16 19:09:01.904] [renderer1] [info] Setting search error: XHR timeout: 5000ms

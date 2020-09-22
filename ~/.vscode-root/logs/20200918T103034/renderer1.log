@@ -1,0 +1,15 @@
+[2020-09-18 10:30:43.308] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-18 10:30:43.319] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-18 10:30:52.348] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Impossible d'écrire le fichier '/var/www/my_project_name/.env' (Error: Fichier modifié depuis) file:///var/www/my_project_name/.env
+[2020-09-18 10:41:42.990] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:41:43.006] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:42:33.882] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:42:33.882] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:42:39.407] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:42:39.431] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:51:02.996] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:51:02.999] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:51:08.001] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:51:08.005] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:51:13.008] [renderer1] [info] Setting search error: XHR timeout: 5000ms
+[2020-09-18 10:51:13.015] [renderer1] [info] Setting search error: XHR timeout: 5000ms

@@ -1,0 +1,9 @@
+[2020-09-15 20:28:56.137] [sharedprocess] [info] main {"machineId":"1659d5de98327a395ab93e1659d550f5d5e7a14b1bb8c4245b602c691a50bbae","windowId":2}
+[2020-09-15 20:28:56.170] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/var/www/my_project_name/~/.vscode-root/User/snippets'
+[2020-09-15 20:29:36.153] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-15 20:29:57.080] [sharedprocess] [info] Installing extension: whatwedo.twig
+[2020-09-15 20:29:57.310] [sharedprocess] [info] Downloaded extension: whatwedo.twig /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/whatwedo.twig-1.0.2
+[2020-09-15 20:29:57.378] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.whatwedo.twig-1.0.2: whatwedo.twig
+[2020-09-15 20:29:57.378] [sharedprocess] [info] Renamed to /root/.vscode/extensions/whatwedo.twig-1.0.2
+[2020-09-15 20:29:57.379] [sharedprocess] [info] Installation completed. whatwedo.twig
+[2020-09-15 20:29:57.409] [sharedprocess] [info] Extensions installed successfully: whatwedo.twig

@@ -1,0 +1,39 @@
+
+{
+    "terminal.integrated.shell.linux": "/bin/bash",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "window.zoomLevel": 0,
+    "json.schemas": [
+
+    
+    ],
+    "[json]": {
+
+
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "[jsonc]": {
+
+    "breadcrumbs.showConstructors": true,
+        "editor.quickSuggestions": {
+            "strings": true
+        },
+        "editor.suggest.insertMode": "replace"
+    },
+    "launch": {
+    
+    
+        "configurations": [],
+        "compounds": []
+    },
+    "typescript.tsdk": "",
+    "emmet.includeLanguages": {
+        "{\"*.twig\": \"html\",\"javascript\":\"javascriptreact\"": ""
+    },
+    "emmet.triggerExpansionOnTab": true
+
+}

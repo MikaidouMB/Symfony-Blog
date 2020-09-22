@@ -1,0 +1,89 @@
+[2020-09-16 11:44:27.178] [sharedprocess] [info] main {"machineId":"1659d5de98327a395ab93e1659d550f5d5e7a14b1bb8c4245b602c691a50bbae","windowId":2}
+[2020-09-16 11:45:07.189] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-16 11:45:14.506] [sharedprocess] [info] Installing extension: fallenmax.mithril-emmet
+[2020-09-16 11:45:15.346] [sharedprocess] [info] Downloaded extension: fallenmax.mithril-emmet /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/fallenmax.mithril-emmet-0.7.6
+[2020-09-16 11:45:15.661] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.fallenmax.mithril-emmet-0.7.6: fallenmax.mithril-emmet
+[2020-09-16 11:45:15.661] [sharedprocess] [info] Renamed to /root/.vscode/extensions/fallenmax.mithril-emmet-0.7.6
+[2020-09-16 11:45:15.661] [sharedprocess] [info] Installation completed. fallenmax.mithril-emmet
+[2020-09-16 11:45:15.697] [sharedprocess] [info] Extensions installed successfully: fallenmax.mithril-emmet
+[2020-09-16 11:48:40.340] [sharedprocess] [info] Installing extension: tyriar.lorem-ipsum
+[2020-09-16 11:48:42.059] [sharedprocess] [info] Downloaded extension: tyriar.lorem-ipsum /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/tyriar.lorem-ipsum-1.2.0
+[2020-09-16 11:48:42.102] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.tyriar.lorem-ipsum-1.2.0: tyriar.lorem-ipsum
+[2020-09-16 11:48:42.102] [sharedprocess] [info] Renamed to /root/.vscode/extensions/tyriar.lorem-ipsum-1.2.0
+[2020-09-16 11:48:42.102] [sharedprocess] [info] Installation completed. tyriar.lorem-ipsum
+[2020-09-16 11:48:42.133] [sharedprocess] [info] Extensions installed successfully: tyriar.lorem-ipsum
+[2020-09-16 11:57:21.683] [sharedprocess] [info] Installing extension: necinc.elmmet
+[2020-09-16 11:57:24.234] [sharedprocess] [info] Downloaded extension: necinc.elmmet /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/necinc.elmmet-1.0.1
+[2020-09-16 11:57:25.468] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.necinc.elmmet-1.0.1: necinc.elmmet
+[2020-09-16 11:57:25.468] [sharedprocess] [info] Renamed to /root/.vscode/extensions/necinc.elmmet-1.0.1
+[2020-09-16 11:57:25.469] [sharedprocess] [info] Installation completed. necinc.elmmet
+[2020-09-16 11:57:25.500] [sharedprocess] [info] Extensions installed successfully: necinc.elmmet
+[2020-09-16 12:03:18.839] [sharedprocess] [info] Installing extension: jakethashi.vscode-angular2-emmet
+[2020-09-16 12:03:19.801] [sharedprocess] [info] Downloaded extension: jakethashi.vscode-angular2-emmet /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/jakethashi.vscode-angular2-emmet-2.0.3
+[2020-09-16 12:03:20.337] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.jakethashi.vscode-angular2-emmet-2.0.3: jakethashi.vscode-angular2-emmet
+[2020-09-16 12:03:20.337] [sharedprocess] [info] Renamed to /root/.vscode/extensions/jakethashi.vscode-angular2-emmet-2.0.3
+[2020-09-16 12:03:20.337] [sharedprocess] [info] Installation completed. jakethashi.vscode-angular2-emmet
+[2020-09-16 12:03:20.378] [sharedprocess] [info] Extensions installed successfully: jakethashi.vscode-angular2-emmet
+[2020-09-16 12:06:49.005] [sharedprocess] [info] Installing extension: felixfbecker.php-intellisense
+[2020-09-16 12:06:50.105] [sharedprocess] [info] Downloaded extension: felixfbecker.php-intellisense /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/felixfbecker.php-intellisense-2.3.14
+[2020-09-16 12:06:50.693] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.felixfbecker.php-intellisense-2.3.14: felixfbecker.php-intellisense
+[2020-09-16 12:06:50.693] [sharedprocess] [info] Renamed to /root/.vscode/extensions/felixfbecker.php-intellisense-2.3.14
+[2020-09-16 12:06:50.694] [sharedprocess] [info] Installation completed. felixfbecker.php-intellisense
+[2020-09-16 12:06:50.727] [sharedprocess] [info] Extensions installed successfully: felixfbecker.php-intellisense
+[2020-09-16 12:07:36.259] [sharedprocess] [info] Installing extension: visualstudioexptteam.vscodeintellicode
+[2020-09-16 12:07:39.420] [sharedprocess] [info] Downloaded extension: visualstudioexptteam.vscodeintellicode /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-09-16 12:07:39.786] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.visualstudioexptteam.vscodeintellicode-1.2.10: visualstudioexptteam.vscodeintellicode
+[2020-09-16 12:07:39.786] [sharedprocess] [info] Renamed to /root/.vscode/extensions/visualstudioexptteam.vscodeintellicode-1.2.10
+[2020-09-16 12:07:39.787] [sharedprocess] [info] Installation completed. visualstudioexptteam.vscodeintellicode
+[2020-09-16 12:07:39.813] [sharedprocess] [info] Extensions installed successfully: visualstudioexptteam.vscodeintellicode
+[2020-09-16 16:19:08.742] [sharedprocess] [info] Installing extension: bmewburn.vscode-intelephense-client
+[2020-09-16 16:19:10.020] [sharedprocess] [info] Downloaded extension: bmewburn.vscode-intelephense-client /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/bmewburn.vscode-intelephense-client-1.5.4
+[2020-09-16 16:19:10.379] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.bmewburn.vscode-intelephense-client-1.5.4: bmewburn.vscode-intelephense-client
+[2020-09-16 16:19:10.380] [sharedprocess] [info] Renamed to /root/.vscode/extensions/bmewburn.vscode-intelephense-client-1.5.4
+[2020-09-16 16:19:10.380] [sharedprocess] [info] Installation completed. bmewburn.vscode-intelephense-client
+[2020-09-16 16:19:10.432] [sharedprocess] [info] Extensions installed successfully: bmewburn.vscode-intelephense-client
+[2020-09-16 16:19:51.713] [sharedprocess] [info] Installing extension: neilbrayfield.php-docblocker
+[2020-09-16 16:19:52.525] [sharedprocess] [info] Downloaded extension: neilbrayfield.php-docblocker /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/neilbrayfield.php-docblocker-2.1.0
+[2020-09-16 16:19:52.975] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.neilbrayfield.php-docblocker-2.1.0: neilbrayfield.php-docblocker
+[2020-09-16 16:19:52.975] [sharedprocess] [info] Renamed to /root/.vscode/extensions/neilbrayfield.php-docblocker-2.1.0
+[2020-09-16 16:19:52.975] [sharedprocess] [info] Installation completed. neilbrayfield.php-docblocker
+[2020-09-16 16:19:53.013] [sharedprocess] [info] Extensions installed successfully: neilbrayfield.php-docblocker
+[2020-09-16 16:20:14.760] [sharedprocess] [info] Installing extension: mblode.twig-language-2
+[2020-09-16 16:20:16.621] [sharedprocess] [info] Downloaded extension: mblode.twig-language-2 /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/mblode.twig-language-2-0.9.2
+[2020-09-16 16:20:17.868] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.mblode.twig-language-2-0.9.2: mblode.twig-language-2
+[2020-09-16 16:20:17.868] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mblode.twig-language-2-0.9.2
+[2020-09-16 16:20:17.869] [sharedprocess] [info] Installation completed. mblode.twig-language-2
+[2020-09-16 16:20:17.941] [sharedprocess] [info] Extensions installed successfully: mblode.twig-language-2
+[2020-09-16 16:20:44.761] [sharedprocess] [info] Installing extension: mehedidracula.php-namespace-resolver
+[2020-09-16 16:20:44.974] [sharedprocess] [info] Downloaded extension: mehedidracula.php-namespace-resolver /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/mehedidracula.php-namespace-resolver-1.1.8
+[2020-09-16 16:20:44.993] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.mehedidracula.php-namespace-resolver-1.1.8: mehedidracula.php-namespace-resolver
+[2020-09-16 16:20:44.993] [sharedprocess] [info] Renamed to /root/.vscode/extensions/mehedidracula.php-namespace-resolver-1.1.8
+[2020-09-16 16:20:44.993] [sharedprocess] [info] Installation completed. mehedidracula.php-namespace-resolver
+[2020-09-16 16:20:45.024] [sharedprocess] [info] Extensions installed successfully: mehedidracula.php-namespace-resolver
+[2020-09-16 16:21:05.109] [sharedprocess] [info] Installing extension: burkeholland.simple-react-snippets
+[2020-09-16 16:21:07.218] [sharedprocess] [info] Downloaded extension: burkeholland.simple-react-snippets /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/burkeholland.simple-react-snippets-1.2.3
+[2020-09-16 16:21:07.295] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.burkeholland.simple-react-snippets-1.2.3: burkeholland.simple-react-snippets
+[2020-09-16 16:21:07.295] [sharedprocess] [info] Renamed to /root/.vscode/extensions/burkeholland.simple-react-snippets-1.2.3
+[2020-09-16 16:21:07.295] [sharedprocess] [info] Installation completed. burkeholland.simple-react-snippets
+[2020-09-16 16:21:07.326] [sharedprocess] [info] Extensions installed successfully: burkeholland.simple-react-snippets
+[2020-09-16 16:21:23.904] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2020-09-16 16:21:25.140] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/esbenp.prettier-vscode-5.6.0
+[2020-09-16 16:21:25.228] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.esbenp.prettier-vscode-5.6.0: esbenp.prettier-vscode
+[2020-09-16 16:21:25.228] [sharedprocess] [info] Renamed to /root/.vscode/extensions/esbenp.prettier-vscode-5.6.0
+[2020-09-16 16:21:25.230] [sharedprocess] [info] Installation completed. esbenp.prettier-vscode
+[2020-09-16 16:21:25.265] [sharedprocess] [info] Extensions installed successfully: esbenp.prettier-vscode
+[2020-09-16 16:23:50.475] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+[2020-09-16 16:23:50.914] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-fr /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/ms-ceintl.vscode-language-pack-fr-1.48.3
+[2020-09-16 16:23:50.966] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.ms-ceintl.vscode-language-pack-fr-1.48.3: ms-ceintl.vscode-language-pack-fr
+[2020-09-16 16:23:50.966] [sharedprocess] [info] Renamed to /root/.vscode/extensions/ms-ceintl.vscode-language-pack-fr-1.48.3
+[2020-09-16 16:23:50.967] [sharedprocess] [info] Installation completed. ms-ceintl.vscode-language-pack-fr
+[2020-09-16 16:23:50.998] [sharedprocess] [info] Extensions installed successfully: ms-ceintl.vscode-language-pack-fr
+[2020-09-16 16:23:57.865] [sharedprocess] [info] main {"machineId":"1659d5de98327a395ab93e1659d550f5d5e7a14b1bb8c4245b602c691a50bbae","windowId":2}
+[2020-09-16 16:24:37.876] [sharedprocess] [info] Starting to clean up unused language packs.
+[2020-09-16 16:24:37.879] [sharedprocess] [info] Skipping directory 0efca33a20bf5218eaa314fca17076eb.fr. Language pack still in use.
+[2020-09-16 16:40:19.134] [sharedprocess] [info] Installing extension: shan.code-settings-sync
+[2020-09-16 16:40:19.887] [sharedprocess] [info] Downloaded extension: shan.code-settings-sync /var/www/my_project_name/~/.vscode-root/CachedExtensionVSIXs/shan.code-settings-sync-3.4.3
+[2020-09-16 16:40:19.986] [sharedprocess] [info] Extracted extension to /root/.vscode/extensions/.shan.code-settings-sync-3.4.3: shan.code-settings-sync
+[2020-09-16 16:40:19.986] [sharedprocess] [info] Renamed to /root/.vscode/extensions/shan.code-settings-sync-3.4.3
+[2020-09-16 16:40:19.987] [sharedprocess] [info] Installation completed. shan.code-settings-sync
+[2020-09-16 16:40:20.023] [sharedprocess] [info] Extensions installed successfully: shan.code-settings-sync

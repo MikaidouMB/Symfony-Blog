@@ -1,0 +1,11 @@
+[2020-09-15 20:29:09.818] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-15 20:29:09.827] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2020-09-15 20:32:57.988] [renderer1] [error] Cannot read property 'getCell' of undefined: TypeError: Cannot read property 'getCell' of undefined
+    at Object.t.convertLinkRangeToBuffer (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3451:362)
+    at g._provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:4446:537)
+    at g.provideLinks (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:3450:508)
+    at /usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243514
+    at Array.forEach (<anonymous>)
+    at t._askForLink (/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243376)
+    at t._onHover (/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:243071)
+    at t._onMouseMove (/usr/share/code/resources/app/node_modules.asar/xterm/lib/xterm.js:1:242931)
