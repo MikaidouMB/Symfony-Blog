@@ -6,18 +6,23 @@
     <h1>Création d'un article !</h1>
 
         {{ form_start(formArticle) }}
-            {{ form_row(formArticle.title,{'attr' : {'placeholder' : "Titre de l'article"}} ) }}
+        
+            {{ form_row(formArticle.title) }}
+
+            {{ form_row(formArticle.category,{'attr' : {'placeholder' : "Titre de l'article"}} ) }}
 
             {{ form_row(formArticle.content, {'attr' : {'placeholder' : "Contenu de l'article"}}) }}
 
             {{ form_row(formArticle.image, {'attr' : {'placeholder' : "URL de l'image"}}) }}
 
-        <button type="submit" class="btn btn-success">
-        {% if editMode %}
-        Enregistrer les modifications
-        {% else %}
-        Ajouter l'article</button>
-        {% endif %}
-        {{form_end(formArticle)}}
+            <button type="submit" class="btn btn-success">
+                {% if editMode %}
+                    Enregistrer les modifications
+                {% else %}
+                    Ajouter l'article
+                {% endif %}
+            </button>
+
+        {{ form_end(formArticle) }}
 
 {% endblock %}

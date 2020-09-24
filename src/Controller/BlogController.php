@@ -41,17 +41,18 @@ class BlogController extends AbstractController
     }
 
     /**
-     * @Route(" /blog/new", name = "blog_create")
-     * @Route(" /blog/{id}/edit", name = "blog_edit")
+     * @Route("/blog/new", name="blog_create")
+     * @Route("/blog/{id}/edit", name="blog_edit")
      */
         public function form(Article $article = null, Request $request, EntityManagerInterface $manager) {
+            
             if(!$article)
             {
                 $article = new Article();
             }
 
+            $form = $this->createForm(ArticleType::class,$article);
 
-            $form = $this->createForm(Article::class,$article);
 
             $form->handleRequest($request);
 
@@ -63,8 +64,7 @@ class BlogController extends AbstractController
                 $manager->persist($article);
                 $manager->flush();
 
-                return $this->redirectToRoute('blog_show', ['id' => $article->getId
-                ()]);
+                return $this->redirectToRoute('blog_show', ['id' => $article->getId()]);
             }
 
             return $this->render('blog/create.html.twig',[
@@ -74,7 +74,7 @@ class BlogController extends AbstractController
         }
 
     /**
-     *  @Route("/blog/{id}", name = "blog_show")
+     * @Route("/blog/{id}", name="blog_show")
      */
 
     public function show(Article $article){
